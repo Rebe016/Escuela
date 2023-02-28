@@ -1,0 +1,2 @@
+# Escuela
+Solo trabajos escolares.
